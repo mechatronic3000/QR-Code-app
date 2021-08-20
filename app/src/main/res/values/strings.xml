@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UTS ONT Code Reader</string>
+    <string name="take_barcode_picture">Take Barcode Picture</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="send_email">SEND EMAIL</string>
+    <string name="no_barcode">NO BARCODE DETECTED</string>
+    <string name="serial_number">Serial Number:</string>
+    <string name="part_number">Part Number:</string>
+    <string name="MAC_address">MAC Address:</string>
+    <string name="FSAN_number">FSAN:</string>
+    <string name="POWOSO">PO#/WO#/SO#</string>
+    <string name="POWO">PO#/WO#</string>
+    <string name="SO">SO#</string>
+    <string name="customer">Customer</string>
+    <string name="source">Source</string>
+    <string name="pass">Pass</string>
+    <string name="fail">Fail</string>
+    <string name="pass_fail">Pass/Fail</string>
+</resources>
